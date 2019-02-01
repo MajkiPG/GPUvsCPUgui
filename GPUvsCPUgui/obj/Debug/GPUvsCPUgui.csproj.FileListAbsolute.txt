@@ -1,0 +1,120 @@
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe.config
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.pdb
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.IL.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.Parallel.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.xml
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.xml
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.pdb
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.xml
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csprojAssemblyReference.cache
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Form1.resources
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Properties.Resources.resources
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.GenerateResource.cache
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CoreCompileInputs.cache
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CopyComplete
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.exe
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.pdb
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.dll
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.pdb
+C:\Users\majki\Documents\CudaProjects\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe.config
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.pdb
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.IL.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.Parallel.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.pdb
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.pdb
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csprojAssemblyReference.cache
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Form1.resources
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CopyComplete
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.exe
+C:\Users\Mikołaj\Desktop\inż\Na DVD\Kody źródłowe\C#\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.pdb
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe.config
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.exe
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\GPUvsCPUgui.pdb
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.IL.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.Parallel.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\Alea.xml
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\FSharp.Core.xml
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.pdb
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ManagedCuda.xml
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.pdb
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.xml
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csprojAssemblyReference.cache
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Form1.resources
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.Properties.Resources.resources
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.GenerateResource.cache
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CoreCompileInputs.cache
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.csproj.CopyComplete
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.exe
+C:\Users\majki\Desktop\GPUvsCPUgui\GPUvsCPUgui\obj\Debug\GPUvsCPUgui.pdb
